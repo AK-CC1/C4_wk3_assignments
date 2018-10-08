@@ -1,2 +1,5 @@
-# C4_wk3_assignments
-Assignments for wk3
+Hello all,
+
+This the assignment for week3. 
+Thank you for passing by.
+
